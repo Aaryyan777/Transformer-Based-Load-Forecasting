@@ -41,8 +41,6 @@ The final model's performance is highly competitive and meets or exceeds typical
 
 The `enhanced-script.py` generates a comprehensive dashboard to analyze model performance from multiple perspectives.
 
-*(Note: The following image is a sample from the output.)*
-
 ![Performance Dashboard](./download5.png)
 
 ## Technologies Used
