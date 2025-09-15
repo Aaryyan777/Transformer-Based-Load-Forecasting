@@ -43,7 +43,7 @@ The `enhanced-script.py` generates a comprehensive dashboard to analyze model pe
 
 *(Note: The following image is a sample from the output.)*
 
-![Performance Dashboard](./enhanced-visualization/download5.png)
+![Performance Dashboard](./download5.png)
 
 ## Technologies Used
 
